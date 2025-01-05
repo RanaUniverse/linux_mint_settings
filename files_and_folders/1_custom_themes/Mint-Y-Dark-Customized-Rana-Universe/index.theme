@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-Y-Dark Customized By Rana Universe
+Comment=A flat theme with transparent elements, i edit this with my own logo and so on. This has transparent background.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-Y-Dark
+MetacityTheme=Mint-Y
+IconTheme=Mint-Y
+CursorTheme=Bibata-Modern-Classic
+ButtonLayout=:minimize,maximize,close

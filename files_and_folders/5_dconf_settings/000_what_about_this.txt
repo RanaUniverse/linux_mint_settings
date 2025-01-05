@@ -1,0 +1,5 @@
+This is where i will keep the dconf settings for easy access of backup my settings. 
+
+here x file is the checking file. i will do this checking later time goodly.
+
+This has not made yet completely.
